@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_Facade", "_11_Facade\_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12_Flyweight", "_12_Flyweight\_12_Flyweight.csproj", "{A55BC056-2032-471B-A232-3481E57CA563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_Proxy", "_13_Proxy\_13_Proxy.csproj", "{015A9B0F-BB23-4A14-9978-33AE5B351BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A55BC056-2032-471B-A232-3481E57CA563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55BC056-2032-471B-A232-3481E57CA563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55BC056-2032-471B-A232-3481E57CA563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015A9B0F-BB23-4A14-9978-33AE5B351BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015A9B0F-BB23-4A14-9978-33AE5B351BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015A9B0F-BB23-4A14-9978-33AE5B351BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015A9B0F-BB23-4A14-9978-33AE5B351BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{E593D088-36BF-40C0-8CF4-C3AE52D5EC62} = {1F4DD080-4A5D-4321-988E-D9BBD11F0A85}
 		{3F687359-F81E-4F91-8200-A81C7CB6E6C2} = {1F4DD080-4A5D-4321-988E-D9BBD11F0A85}
 		{A55BC056-2032-471B-A232-3481E57CA563} = {1F4DD080-4A5D-4321-988E-D9BBD11F0A85}
+		{015A9B0F-BB23-4A14-9978-33AE5B351BEC} = {1F4DD080-4A5D-4321-988E-D9BBD11F0A85}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6DCAF001-245E-4FFA-AB80-B30DB671B908}
