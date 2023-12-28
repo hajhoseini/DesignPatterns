@@ -1,4 +1,4 @@
-﻿namespace _9_Composite.Employee
+﻿namespace _09_Composite.Employee
 {
     interface IEmployee
     {
